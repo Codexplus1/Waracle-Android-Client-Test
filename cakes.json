@@ -1,0 +1,9 @@
+{
+	"cakes":
+	[
+		{ "title": "Straw Cake", "desc": "StrawBerry Cake", "image": "image4.jpg"},
+		{ "title": "Choco Cake", "desc": "Chocolate Seasoned", "image": "image3.jpg"},
+        { "title": "Panda Make", "desc": "Panda Cake Meat", "image": "image2.jpg" },
+        { "title": "RegMag Cake", "desc": "RegiMate Adictive", "image": "image1.jpg"}
+	]
+}
